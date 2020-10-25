@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/AdminLTE-3.0.5
 .pnp.js
 
 # testing
